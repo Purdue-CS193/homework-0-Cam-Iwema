@@ -15,11 +15,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Soccer
+- Reading
+- Video Games
 
-1. Numbered
-2. List
+1. Likes
+2. Hobbies
 
 **Bold** and _Italic_ and `Code` text
 
